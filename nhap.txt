@@ -1,0 +1,749 @@
+các điều cần lưu ý trong ngôn ngữ lập trình
+
+tiền xử lý
+
+vào ra dữ liệu: file, thiết bị ngoại vi
+
+kiểu dữ liệu
+mảng
+con trỏ
+class
+
+cấu trúc tuần tự
+cấu trúc rẽ nhánh
+cấu trúc lặp
+
+khối lệnh
+chương trình con: hàm, thủ tục
+khái báo hàm và gọi hàm
+cách phân chia module
+
+khai báo
+tên biến
+tên hằng
+
+toán tử
+
+chú thích
+
+các khái niệm đặc trưng: hướng cấu trúc, hướng đối tượng, hướng kịch bản,...
+
+vào ra dữ liệu nên làm đầu tiên để có thể test
+
+dell 1800545455
+
+
+
+
+
+54*86
+54*90
+65*90
+
+làm việc gì thì phải hoàn thành cho xong, cho dù không thích. không là xong sau này cũng phải làm, không những phải làm mà còn phải làm dưới áp lực nữa chứ
+khi có phản hồi không tốt, hiện tại cứ làm đi đã. kiểu sao cho mọi người đồng ý. nhưng cái đó không biết có phải đúng không. và mình không thích, nhưng có thể mình bj sai. nhưng cái cảm giác cứ bị sửa khó chịu lắm.
+có gì thì đưa ra nhiều bản cho mọi người chọn, có những ý tưởng mới, nếu không được chấp nhận thì cũng chịu
+mình sẽ cố ngủ lúc 23h
+tiếng anh sẽ cố học 30 phút mỗi ngày
+dành 2 buổi trong tuần học tiếng anh
+30p học tiếng anh sẽ là học khi nào
+khi nào
+khi nào
+buổi sáng
+một số công việc không cần mất thời gian thì đường để mất thời gian, không cần quá hoàn thiện như là trả lời bình luận trên face, đăng 1 bài lên face, trả lời tin nhắn
+
+you will never get far enough ahead to be able to get to all those books, magazines and leisure time activities that you dream of doing
+No matter how many personal productivity techniques you master, there will always be more to do than you can ever accomplish in the time you have available to you, no matter how much it is
+
+
+
+no matter how +o+s+v
+https://docs.google.com/document/d/1BJJJNlGG3O6i-Enlg-4uoDb-Ykb5nOrK4NWRyqFRpNY/edit
+https://drive.google.com/drive/folders/0B490Sj7ZzNY_XzlMMGY3X0I0WW8
+
+
+
+Một vài cái cần thống nhất:
+tên class, mô tả class bằng cái sơ đồ
+
+
+	quy tắc 60 30 10: 
+một nửa của 13=8
+
+
+
+
+We’re after a tour guide: chúng tôi cần mộ hướng dẫn viên
+I can recommend …: Tôi có thể giới thiệu…
+In front of you is...: phia trước là…….
+On your right/left you will see…: Phía bên phải
+Up ahead…: phía trước
+On your left you will see…: Bên trái bạn sẽ thấy
+As we turn the corner here, you will see…:  Khi chúng ta rẽ ở góc kia bạn sẽ thấy………
+In the distance…: trong khoảng cách…….
+If you look up you will notice…: nếu bạn nhìn lên sẽ thấy
+Off to the north…: xuống phía bắc
+Look to the east…Nhìn sang phía đông
+To your west…: Phía tây của bạn
+In a few minutes we’ll be passing…: Khoảng vài phút nữa chúng ta sẽ đi qua…….
+We are now coming up to…:  Chúng ta đi đến……..
+As you will see…: Như bạn sẽ thấy……….
+You may have noticed…:   Bạnn có thể đã chú ý
+Take a good look at…:  Hãy nhìn kỹ vào……….
+I’d like to point out…: Tôi muốn chỉ ra là…………
+Keep your eyes open for...:Bạn để ý……………..
+ Tourist Questions
+
+Is that the…you were talking about?: Đó có phải ………bạn vừa nói đến không?
+Are we going to pass the…?: chúng ta đã qua………….
+Are we going to see any…?: Chúng ta sẽ nhìn thấy…………
+Is it on the right or the left?: Có phải nó nằm bên trái hay bên phải?
+I don’t see it. Can you point it out again?: Tôi không thấy. Bạn có thể chỉ ra không?
+Did I miss it?: Tôi đã bỏ lỡ rồi phải không?
+Will we see it on the way back?: Chúng ta có nhìn thấy trên đường về không?
+
+
+
+
+
+
+phương thức khởi tạo: lớp con có kế thừa từ lớp cha hay không
+từ khóa super
+overload nạp chồng: trùng tên phương thức, khác tham số
+override ghi đè: trùng tên chữ kí hàm, lớp con, quy tắc ghi đè: thừa kế, phạm vi truy cập(lớp con không được rộng hơn lớp cha)
+thừa kế:
+interface: lớp trừu tượng
+minh họa bằng code
+tính đa hình, up casting, down casting
+static:
+	biến: 
+	class: định nghĩa các thư viện, thuộc tính
+final: không thay đổi
+	lớp không có lớp con
+	biến:
+ngoại lệ và lập trình tổng quát(generic programming)
+mẫu thiết kế: prototype, composite
+sử dụng lại phần mềm, có thể nâng cấp được lên, thiết kế
+kiến trúc tốt, đủ mạnh để nâng cấp
+design pattem(thiết kế phần mềm), phana tichs thieets kees huowngs ddoois tuownjg
+sơ đồ lớp UML
+
+so sánh lập trình thủ thủ tục và ÔP
+	extension
+	code reuse
+properties
+	trừu tượng
+	đóng gói
+tham trị pas by value
+OOP in java
+	phương thức khởi tạo(mặc định, bao nhiêu ptkt)
+	rules in inheritance
+polymorphism: 3 examples
+	dynamic binding: giải mã thông điệp động
+		private
+	up casting
+	down cáting
+	abstract
+	Q1: đa hình dùng với lớp abstract được không( khai báo kiểu là lớp cha abstract, tạo object từ lớp con)
+keywords: static,this,final 
+
+
+
+
+
+
+bt: dùng DFF(duyệt theo chiều sâu) xem đồ thì có chu trình k
+dítra
+floy
+
+
+sắp xế toco: đồ thị định hướng không chu trình: nếu có (u,v) thuộc E thì u đứng trước v trong dãy topo
+	sắp xếp công việc, giống môn học trong đại học, có điều kiện tiên quyết
+	duyệt theo chiều sâu
+	phát hiện nút k có mũi tên nào hướng đến để bắt đầu duyệt từ đó (nếu có nhiều thì lưu lại). dấu hiệu: hàng hoặc cột toàn số 0, tùy quy ước thì là hàng hoặc cột
+	đánh dấu những thằng thăm rồi
+	duyệt theo chiều sâu
+	kết quả: danh sách những công việc, môn học nên làm, học trước
+	khó là chuyển từ bài toán thực tế sang dạng đồ thị, còn từ đồ thị thì có thuật toán trên rồi
+thuật toán tham ăn
+	tại 1 thời didemr có 1 số lựa chọn, mình chọn 1 lựa theo 1 tiêu chí tại 1 thời điểm ngắn hạn
+	bài toán balo:
+		giới hạn khối lượng M
+		N đồ vật khối lượng wi và giá trị ti
+		tiêu chí: có thể là khối lượng lớn nhất hoặc giá trị lớn nhất
+		nếu tiêu chí là khối lượng: lấy những vật nhẹ nhất cho đến khi hết N vật hoặc quá M
+		nếu tiêu chí là giá trị: lấy những vật có giá trị lớn nhất, cho đến khi quá điều kiện
+		tham ăn có thể chỉ cho nghiệm cục bộ
+		nhưng cũng có lúc được nghiệm toàn cục nếu sử dụng trên cấu trúc con tối ưu
+	cây bao trùm nhỏ nhất:
+		chứa tất cả các đỉnh, liên thông và đường nhỏ nhất
+		thuật toán Prim:
+			chọn đỉnh bất kì
+			tìm thằng kề với nó
+			áp dụng tham ăn chọn đỉnh tiếp theo
+tìm đường đi ngắn nhất: có cấu trúc con tối ưu
+	lưu ý: trọng số k liên quan gì đến khoảng cách (k bị
+
+thời gian chạy, ct thời gian chạy
+các chiến lược thiết kế thuật toán
+- chia để trị: bài toán (N) chia nhỏ N/2,...
+- quy hoạch động: bài toán (1) -> nghiệm -> bài toán (2)
+	thiết kế bảng lưu nghiệm để sử dụng lại
+	các bài toán còn k giao nhau (?): bài toán tìm fibonaxi(nghiệm dề lên nhau)
+	đường đi ngắn nhất d(i;j)=d(i;0)+d(0;j)
+	các bước:
+		bài toán con nhỏ nhất, 
+		bài toán con tiếp theo, 
+		bảng lưu nghiệm như thế nào,
+		cập nhật bảng lưu nghiệm ntn
+	vd: dãy con tăng dài nhất
+		bài toán nhỏ: dãy con tăng dài nhất trước s[k]
+		lưu nghiệm, kết hợp nghiệm
+- tham ăn
+- thuật toán xấp xỉ(ngẫu nhiên)
+	bt: thời khóa biểu, lịch sản xuất, định tuyến,...
+	MPH
+	phương pháp xấp xỉ:
+		heuristics: cho từng bài cụ thể
+		metaheuristics: 
+		: Cho họ bài toán
+thi: tham ăn, lập trình động: balo cây bao trùm, chia để trị
+giải bài toán con + kết hợp nghiệm
+
+
+xuay cây
+duyệt cây: trước trong sau
+cây tìm kiếm nhị phân
+tìm kiếm
+cây heap: thứ tự bộ phận
+hàng đợi ưu tiên
+thêm đỉnh, xóa đỉnh
+
+
+
+
+tìm đường đi nhỏ nhất giữa 2 đỉnh (s1, s2)
+	trong 1 bước đi từ 1 đỉnh s nào đó đến các đỉnh còn lại, nếu tìm đc đường đi đến 1 đỉnh nào đó nhỏ nhất so với các đỉnh còn lại, thì đường đi đó là đã là nhỏ nhất, vì nếu có đường đi khác nhỏ hơn thì phải đi qua các đỉnh khác, nhưng các đỉnh khác đã lớn hơn rồi nên nó là nhỏ nhất
+
+gentrisone
+
+sở thích
+
+phím chức năng:  12*8 18 x
+phím chữ: 14*14 47x
+delete: 14*8 x
+esc: 14*8x
+backspace, tab: 23*14x
+caplock: 27*14x
+shiftL: 36*14x
+shiftR: 38*14x
+ctrlL: 17*16x
+fn, win, alt,ctrlR: 13*16x
+space: 89*16x
+mũi tên: 16*8
+enter: 29*14x
+số:12*14 12x
+0: 29*16x
+.: 12*16x
++,enter: 12*35x
+
+97
+
+20
+18
+63
+101
+p1 https://www.fshare.vn/file/5E8RVS4VRZFT
+p2 https://www.fshare.vn/file/V9F2QBZV2DEN
+p3 https://www.fshare.vn/file/5JZ3454TITBT
+p4 https://www.fshare.vn/file/2AYPFNTVNDLM
+p5 https://www.fshare.vn/file/DUUHJYXKSX27
+p6 https://www.fshare.vn/file/ID2UTD1QEI3N
+p7 https://www.fshare.vn/file/LHD6FEGTHLCK
+p8 https://www.fshare.vn/file/4IYYO8T8E1NV
+https://linktocdo.com/
+europa: https://www.fshare.vn/file/T6MXWWF06T
+
+
+
+internal 10.10.2.56/CSDL
+external 112.137.130.56/CSDL
+
+tuần 14,15 cuối kỳ thực hành
+
+
+
+
+đồng bộ hóa dữ liệu git
+học như thế nào
+làm sao kết nối các phần
+ER và UML
+phân chia các phần như thế nào
+làm biểu đồ UML chi tiết hơn
+mô hình MVC, 3 tier và 3 layer
+https://o7planning.org/vi/10433/huong-dan-lap-trinh-android-voi-database-sqlite
+https://techtalk.vn/mo-hinh-3-lop-co-gi-hay.html
+https://techtalk.vn/bai-hoc-dang-long-sau-2-nam-lap-trinh-android.html
+https://techtalk.vn/7-blog-phat-trien-ung-dung-di-dong-ma-ban-nen-theo-doi.html
+
+chu trình phát triển
+mô hình lập trình
+git
+thiết kế thật chi tiết chương trình
+thiết kế chi tiết cơ sở dữ liệu
+
+nhập số tiền, lượng calo để gợi ý các công thức nấu ăn
+
+Tuổi 20 - Những Năm Tháng Quyết Định Cuộc Đời Bạn
+
+mời giám sát viên: Thái, Quy, Lương, Định, Hà
+đưa các bản cho anh Công, mời anh Công
+test vòng 2
+thời gian chờ khá là lâu cho nên trong thời gian chờ, các thí sinh có thể xem các video về tinh thần làm việc nhóm
+
+General
+	Purpose and scope of system
+	Objectives and crieria for success
+	List of terminology, organizations involved, etc.
+Description of current system(s)
+	Requirements of proposed system
+		Overview
+		Functional Requirements
+		Usability requirements
+		Non-functional requirements
+	System models
+		Scenarios
+		Use cases
+		Models used during analysis
+Detailed specifications
+	Business rules, specifications, etc
+	Data flow, sources of data, data validation
+A common fault in requirements documentation is to gloss over the details. This results in misunder standings between the client and the developers
+
+
+nói, làm slide, nghe, đặt câu hỏi
+slide
+	cỡ chữ
+	số lượng dòng
+	gạch ý
+nếu usecase quá nhiều chia ra, phân cấp hình vẽ
+use case:
+	đặt tên tác nhân
+	ghi rõ từng tác nhân
+	nắm rõ 2 mối quan hệ include extend. hiện tại thì chưa nên dùng 2 cái mối quan hệ đó
+luông sự kiện
+	luồng chính
+	luồng phụ
+Yêu cầu phải thật rõ ràng
+thuật ngữ
+	về miền lĩnh vực
+	công nghệ
+
+phạm vi
+chức năng rõ ở trong biểu đồ ca
+	nếu phúc tạp: biểu đồ mức cao
+	mô tả cho biểu đồ con
+
+căn bản về OOP (obiect oriented programming)
+	khái niệm
+		lớp và đối tượng (class and object)
+		thuộc tính và trạng thái (attribute and state)
+		phương thức và hành vi (method and 
+		)
+		thời gian sống, hàm khởi tạo (,constructor)
+		thông điệp (message)
+	nguyên tắc
+		trừu tượng hóa (abstraction)
+		đóng gói (encapsulation)
+		thừa kế (inheritance)
+		đa hình (polymorphism)
+		che giấu thông tin
+căn bản về java
+	Java là gì
+	
+what, why, how
+
+
+
+0903448896
+
+học lúc 9h
+thu tiền học vào lúc nào
+dạy đến khi nào
+
+thời gian dạy
+mục tiêu tiết học
+soạn bài tập về nhà hữu ích và thú vị
+
+
+
+Tiếng anh tài chính ngân hàng hướng nghiệp
+	Thực tập tại PG bank
+	Kí hợp đồng cộng tác viên tại PG bank
+	Ra trường có cơ hội làm việc tại ngân hàng
+	học phí 600-700k/khóa
+	học 2 tháng: 2 buổi/tuần
+	khai giảng giữa tháng 4
+	cmt số tên, sđt
+
+
+
+
+
+
+application: controlled by app developer
+other layers: controlled by OS
+Sockets: between
+
+identifier (định danh) include both IP address and port numbers
+	HTTP: 80
+	Mail: 25
+	FTP: 21 control 20 file transfer
+TCP:
+	- reliable transport
+	- flow control: receiver
+	- congestion (tắc nghẽn) control: network overloaded
+	- connection oriented
+	Doesn't provide: timing, minimum throughput guarantee, security
+UDP:
+	- unreliable data transfer
+	Doesn't provide: 
+
+
+Giới thiệu
+	Mục đích
+	Nền tảng, công nghệ
+	Phạm vi tài liệu
+Chức năng chung
+	Use case
+Yêu cầu chức năng chi tiết
+Yêu cầu phi chức năng
+
+assignment
+ôn xác suất
+chuẩn bị teamwork
+
+BGK:
+	Dụng cụ cần thiết (Hướng dẫn sử dụng)
+	Nhiệm vụ
+Giám sát viên:
+	Dụng cụ cần thiết (Hướng dẫn sử dụng)
+		Bảng Giám sát thí sinh
+		Bảng khảo sát
+		Tờ luật chơi
+		Bảng tính Nhập dữ liệu khảo sát
+
+		Thước đo
+	Nhiệm vụ:
+		+ Giám sát, quản lý số lượng đội từ lúc tập hợp
+		+ Ghi chú các đánh giá khách quan nhất của từng thí sinh theo tiêu chí
+		+ Phát luật chơi, đo chiều cao tháp của mỗi đội, cho điểm
+		+ Thu thập thông tin nhóm
+		+ Phát giấy khảo sát cho thí sinh đội mình quản lý
+		+ Tổng hợp bài khảo sát của nhóm mình quản lý
+		+ Tổng hợp điểm từ BGK của nhóm mình quản lý
+		từ chiều cao quy ra điểm
+Quản lý vị trí:
+
+Test từng phần:
+	test game, đo
+	test ghi giám sát
+	test khảo sát và nhập vào máy tính
+	ghi lại phản hồi
+
+
+
+
+#Chi tiết vòng thi
+#Chi tiết luật chơi
+Đánh giá chéo
+#Giám sát
+#Tiêu chí chấm điểm
+#Trên máy tính
+#Timeline
+Email
+#Nhiệm vụ cho giám khảo
+Danh sách chia nhóm thí sinh
+Bản tổng hợp đồ dùng cho Phúc
+
+Nhiệm vụ của ban giám khảo:
+	Trong 18 phút làm việc nhóm, giám khảo quan sát tổng quan cách làm việc của các thí sinh
+	Đánh giá và cho điểm thí sinh dựa trên lúc xem thực tế, bản giám sát, bản tổng hợp đánh giá chéo và kết quả câu hỏi phỏng vấn
+
+#Dụng cụ chi tiết (thêm giấy)
+
+Học:
+	Mạng
+		Nộp thực hành
+	Cơ sở dữ liệu
+		Chưa hiểu mấy cái công thức toán học
+		Chuyển từ EER sang R
+	Công nghệ phần mềm
+		Sửa lại bài
+		Học HTML,CSS,Javascript
+	Toán rời rạc
+		Chưa hiểu phần lồng chim, đồ thị
+	Xác suất thống kê
+		* Thi
+			xác suất cổ điển, các loại phân bố
+CLB:
+	Mở rộng ô cho Bảng giám sát thí sinh
+	timeline chia 2 ca
+GS:
+	Assigment 2
+
+Chấm điểm xây tháp:
+	Đo chiều cao của tháp
+	1 nhóm cao nhất:	 3 điểm/thành viên
+	2 nhóm cao tiếp theo:	 2 điểm/thành viên
+	2 nhóm thấp nhất:	 1 điểm/thành viên
+BTC sẽ đưa kết quả của nhóm (Nhóm số mấy, tên nhóm trưởng, điểm của nhóm)
+BGK khoanh tròn vào số điểm mình đánh giá cho từng thí sinh
+
+
+tập trung, thi teamwork, phỏng vấn 309
+đánh giá chéo 308
+
+
+Chuyển ER->R
+	B1:	Chuyển các Thực thể thường
+	B2:	Chuyển các Thực thể yếu: Khóa chính của thực thể yếu là (Khóa chính Thực thể chủ, Định danh thực thể yếu); Khóa ngoài của thực thể yếu là khóa chính của thực thể yếu
+  Nếu là liên kết 2 ngôi:
+	B3:	Nếu là liên kết 1:1
+			Nếu cả 2 đều tham gia toàn bộ: gộp 2 thực thể lại
+			Nếu không: thêm khóa của quan hệ thứ 2 làm khóa ngoài của qh thứ nhất
+	B4:	Nếu là liên kết 1:n
+			Thêm khóa của 1 vào làm khóa ngoài của nhiều
+	B5:	Nếu là liên kết n:m
+			Tạo ra một quan hệ mới với:
+				Tên quan hệ: tên của mối liên kết
+				Thuộc tính: khóa của các thực thể liên quan, thuộc tính của mối liên kết
+				Khóa: (tập khóa của các thực thể)
+	B6: Nếu là thuộc tính đa trị
+			Tạo một quan hệ mới:
+				Thuộc tính: Các thuộc tính đa trị, khóa của thực thể chủ
+				Khóa chính: Các thuộc tính đa trị, khóa của thực thể chủ
+				Khóa ngoài:	Khóa của thực thể chủ
+	B7: Nếu là liên kết đa ngôi
+			Tạo 1 quan hệ mới:
+				Thuộc tính: Thuộc tính của liên kết, các khóa của các thực thể tham gia
+				Khóa chính:	Các khóa của các thực thể tham gia
+				Khóa ngoài: từng khóa của các thực thể tham gia
+				Nếu có  thực thể tham gia nào có ràng buộc lượng là 1 thì k tính vào khóa chính
+
+Đại số quan hệ
+	Các thao tác cập nhật
+		Chèn: INSERT(R,t)
+		Xóa : Delete(R,f)
+		Sửa : Modify(R,f,<a=v,...>)
+	Phép toán:
+		Hợp
+		Giao
+		Trừ
+		Chọn: 
+			Chọn ra các bộ trong R thỏa mãn đk P
+			Ơp(R)
+			t/c: giao hoán, kết hợp
+		Chiếu:
+			Lấy ra các cột thuộc tính trên R
+			Pi<danh sách tt>(R)
+		Tích khả hợp: Cùng bậc, Cùng DOM
+		Tích decac
+		Nối
+		Chia
+		Đổi tên: 
+
+		Kết hợp, gom nhóm 
+
+
+
+router# configure terminal
+router(config)# hostname R1
+r1(config)#exit
+
+set password
+r1# configure t
+r1(config)# line console 0
+r1(config-line)# password letmein
+r1(config-line)# login
+r1(config-line)# exit
+r1(config)#
+
+set password for privileged mode
+r1(config)# enable password cisco
+
+Set encrypted password for privileged mode
+r1(config)# enable secret itsasecret
+
+Encrypt all passwords
+r1(config)# service password-encryption
+
+Set MOTD (message of the day)
+r1(config)# banner motd %xaau%
+
+Copy to NVRAM (RAM được cung cấp nguồn riêng nên không bị mất data khi tắt hệ thống)
+r1# copy running-config startup-config
+r1# copy r s
+
+
+**show all interfaces
+show interfaces
+
+show interface serial 0/0/0
+show interface gigabitethernet 0/0
+
+step 2
+show ip iterface brief
+step 3
+show ip route
+
+copy rang ram ddeer lamf gif
+mauf ddor cos ys nghiax gif
+
+
+
+Tìm kiếm
+Xem nội dung bài viết
+Đăng ký thành viên
+Đăng nhập
+Đăng xuất
+Đăng bài
+Đánh giá bài đăng
+Yêu thích bài đăng
+Chỉnh sửa bài đăng
+Xóa bài đăng
+Báo cáo vi phạm
+Xử lý vi phạm
+
+
+
+
+
+kiến trúc
+phân tích
+
+tuần tự hệ thống
+tuần tự đối tượng
+
+class diagram
+quan hệ
+implement
+
+sáng tạo
+khởi nghiệp
+vấn đề xã hội
+4.0
+
+
+
+
+manager: đối tượng qản lí chung. chịu trách nhiệm nhận yêu cầu từ client, phân tích là yêu cầu j và quyết định cách xử lí
+
+post: 1 thực thể post đại diện cho 1 bài đang và có các phương thức xử lí trên 1 bài đăng
+
+account: lưu thông tin về tài khoản của ng dùng và cũng có các chức năng để quản lí tài khoản đó
+
+posts: đối tượng chứa 1 danh sách các bài đăng và cái phương thức xử lí trên ds đó (có thể cần trong tìm kiếm)
+
+đối tượng lưu like report
+
+
+được dùng tài liệu
+có thể dùng laptop, không được chát, liên lạc
+làm giấy, test máy tính, 10 câu
+đến sớm, khoảng 11h15 thi
+
+dùng database world database
+http://downloads.mysql.com/docs/world.sql.zip
+
+Ông Olli-Pekka Heinoen, Tổng Vụ trưởng Cơ quan quốc gia về giáo
+dục: “Tương lai của giáo dục là tập trung phát triển nhân cách con người”
+Media player poster frame
+Việt Nam đang thúc đẩy đổi mới, cố gắng làm cho nền giáo dục nước nhà tốt lên và chúng tôi cũng như vậy, đang cố gắng cải tiến giáo dục của mình. Dù được đánh giá là tốt nhưng chúng tôi biết mình chưa thể dừng lại.
+Việc đổi mới giáo dục ở Phần Lan đang chuyển từ giúp cho trẻ em “học cái gì” sang “học thế nào”. Vai trò của giáo viên từ trung tâm chuyển sang hướng dẫn, hỗ trợ học sinh.
+Chúng tôi đang tiến đến một xã hội mà ở đó, với công nghệ, trí tuệ nhân tạo, thì máy móc làm được nhiều việc thay con người. Đó cũng là lúc trái tim con người quan trọng hơn và giáo dục ngay từ bây giờ phải chuẩn bị cho học sinh “đón đầu” được điều này. Tôi muốn nhấn mạnh rằng, những phẩm chất của con người mà máy móc không có được là sự ham học hỏi, ham hiểu biết, đồng cảm với người khác. Tương lai là giáo dục tập trung vào phát triển nhân cách, hay nói khác đi là phát triển năng lực, phẩm chất của con người.
+
+để làm việc trơn tru, chúng ta phải giao tiếp với nhau lúc cần thiết
+để giao tiếp với đối tượng khác, truyền tham chiếu vào hàm khởi tạo
+
+
+I²C viết tắt của từ tiếng Anh “Inter-Integrated Circuit”, là một loại bus nối tiếp được phát triển bởi hãng sản xuất linh kiện điện tử Philips. Ban đầu, loại bus này chỉ được dùng trong các linh kiện điện tử của Philips. Sau đó, do tính ưu việt và đơn giản của nó, I²C đã được chuẩn hóa và được dùng rộng rãi trong các mô đun truyền thông nối tiếp của vi mạch tích hợp ngày nay.
+
+Có 2 đối tượng giao tiếp Master và Slave
+Chúng sẽ có 2 dây liên kết:
+	- SDA: Truyền dữ liệu (Data)
+	- SCL: Truyền xung đồng hồ (Clock)
+Nhiệm vụ từng bên: 
+	Master: 
+		-  Xác định hệ quy chiếu bằng cách tạo xung đồng hồ ở SCL
+		-  Xác định sẽ làm việc với Slave nào bằng cách gửi địa chỉ thông qua SDA
+		-  Quyết định đọc hay ghi thông qua SDA
+		-  Gửi, nhận dữ liệu thông qua SDA
+	Slave:
+		- Trả lời Master bằng cách gửi xung ACK thông qua SDA
+		- Nhận, gửi dữ liệu thông qua SDA
+Cách thức xử lý:
+	Trạng thái ban đầu:
+		- SCL: 1
+		- SDA: 1
+	Khi muốn giao tiếp với 1 Slave, Master chuyển SDA
+
+à, chắc tối nay tớ sẽ phân cụ thể. vì một số cái ở front-end tớ chưa biết truyền sang server kiểu gì nên những cái kiểu như nút vote,like,báo cáo vẫn chưa tạo. 
+Nhưng hiện tại thì @Linh Còi cậu làm login,signin,logout đã nha. Cái này chắc là làm đc rồi
+@Nguyễn NhưÝ cậu sẽ làm thêm xóa sửa bài viết nha. hiện tại thì đầu vào có thể là ID của bài viết(đối với xóa, sửa). còn thêm thì sẽ là các thuộc tính
+
+https://drive.google.com/drive/folders/1FWLWq9JQ2otzHc-f5Fp3tZPifH1_dDEe?usp=sharing
+
+biểu đồ
+
+npm project
+module package module hóa: module.exports
+
+user
+
+-----------------------
+Vào chương trình
+Tạo PC đầu tiên: chương trình hỏi các thành phần
+Người dùng nhập hết
+Chương trình hỏi có nhập nữa không
+Nếu Y thì có. Khởi tạo PC tiếp theo
+Nếu N thì không. Tạo ra báo cáo các PCs
+Hiển thị báo cáo:
+Tiêu đề
+Cột 1: số thứ tự
+Cột 2: model
+Cột 3: year
+Cột 4: manufacturer
+Cột 5: comps [chuỗi 1,chuỗi 2,...]
+Độ rộng: 1,2,3,4,5 = 3,độ dài,6,độ dài,50
+
+Phía dưới báo cáo: hỏi có lưu thành tệp không.
+Y lưu vào tệp tên pcs.txt nằm cùng thư mục chương trình
+N kết thúc chương trinh
+--------------------------
+PC:  model, year, manufacurer, comps
+	Đặc tả
+	Cài đặt: 
+		- có PC.toString() PC:<Vostro 3650MT,2016,Dell,Set:{Intel-Core-i3-6100 CPU,4GB-DDR3L RAM,500GB-Sata hard disk,Intel-HD graphics card}>
+		- repOK()
+Set: array<string>
+	Đặc tả
+	Cài đặt: 
+		- có Set.toString() Set:{Intel-Core-i3-6100 CPU,4GB-DDR3L RAM,500GB-Sata hard disk,Intel-HD graphics card}
+		- Set.repOK()
+		- override Set.equals(Set obj)
+
+PCReport:
+	Đặc tả
+	Cài đặt:
+		PCReport.displayReport(PC[] objs): String
+			form
+			không cần tạo đối tượng: static methor
+PCProg:
+	createObjects
+		đặc tả
+		Cài đặt
+			
+	displayReport
+	saveReport
+	main
