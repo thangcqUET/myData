@@ -747,3 +747,56 @@ PCProg:
 	displayReport
 	saveReport
 	main
+	
+4h00    2 28/05/2018 INT2208 3  Công nghệ phần mềm          3   TS.Vũ Diệu Hương 65 2 4 (305,307)-GĐ2
+08h00   4 30/05/2018 INT2209 20 Mạng máy tính               3   TS.Nguyễn Hoài Sơn 40 1 2 PM 201-G2 VĐ
+14h00   5 31/05/2018 INT2209 3  Mạng máy tính               3   TS.Nguyễn Hoài Sơn 77 2 4 PM (201,202)-G2 VĐ
+14h00   5 07/06/2018 MAT1101 2  Xác suất thống kê           3   ThS.Hoàng Thị Điệp 78 2 4 (304,308)-G2
+14h00   6 08/06/2018 INT2207 3  Cơ sở dữ liệu               3   ThS.Vũ Bá Duy 80 3 6 (301,302,303)-GĐ2
+14h00   6 08/06/2018 INT2207 4  Cơ sở dữ liệu               3   ThS.Vũ Bá Duy 51 2 4 (301,303)-G2
+14h00   2 11/06/2018 INT1050 4  Toán học rời rạc            4   TS.Hà Minh Hoàng 80 2 6 (101,107)-G2
+14h00   2 11/06/2018 INT1050 7  Toán học rời rạc            4   TS.Hà Minh Hoàng 76 3 6 PM (305,307,313)-G2
+08h00   3 12/06/2018 POL1001 1  Tư tưởng Hồ Chí Minh        2   TS.Nguyễn Văn Thắng 74 2 4 (301,303)-G2
+14h00   6 15/06/2018 MAT1100 1  Tối ưu hóa                  2   ThS.Nguyễn Cảnh Hoàng 46 2 4 (101,107)-G2
+
+
+Nhà nước
+Đầu tư trọng điểm
+bóng đá
+thể thao
+chính trị
+người dân
+kinh tế
+lịch sử
+thời đại
+
+gắn kết: nên đâuf tư trọng điểm vào bóng đáo, các môn khác có đầu tư
+kinh tế:
+giao lưu quốc tế: 
+
+what
+what...for
+how
+why
+where
+when
+
+
+
+
+đối với bản thân
+    cung cấp nhiều kiến thức mà bản thân chưa biết
+    cách hành văn dễ hiểu
+    suy luận mạch lạc "tư bản không có tổ quốc" 
+    thay đổi chất 
+đối với thời đó
+    hiện trạng:
+        tư duy ở trong nước: tư duy phong kiến; tư duy khởi nghĩa nhỏ; làm việc rời rạc, chưa thống nhất; khép kín, không mở; quân chủ; đàn ông làm việc lớn
+
+đối với hiện nay
+    những phẩm chất đạo đức vẫn luôn có tính giá trị
+    những phương pháp tổ chức khoa học
+    hiểu sâu về
+
+13
+7 6 5 7
