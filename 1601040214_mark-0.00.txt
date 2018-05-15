@@ -1,0 +1,63 @@
+---------------------
+Program Marker Report
+---------------------
+
++--Input:
+Program id: 1601040214
+Program's package directory: /home/dmle/projects/hanu/PPL/spring2018/assessment/a3/submission/S2018_PPL-A3-3566/V┼й Ho├аi Thu 1601040214_46565_assignsubmission_file_a3_1601040214/a3_1601040214
+Solution program package: vn.edu.hanu.ppl.model.oopPc.solution
+Program type: OOPR
+Test suite class: class vn.edu.hanu.ppl.tcdef.oopPc.TestSuiteOopPC
+Marking function: vn.edu.hanu.ppl.markingfunc.MarkingFuncOopPC
+Report directory: /home/dmle/projects/hanu/PPL/spring2018/assessment/a3/marks
+---
+
++--Design:
+❌ Compilation error(s): : Failed to compile (see sect. Error Details)
+❌ Error: No or wrong compiled program classes found in the designated directory location
+
+Design Total: 0.00
+---
+
++--Code Testing:
+❌ Error: No compiled or wrong program classes found in the designated directory location
+
+Code Testing Total: 0.00
+---
+
++--Summary:
+
+Summary Total: 0.00
+---
+
++--Error Details:
+❌ Compilation error(s): Failed to compile due to: utils.NotPossibleException: copyJavaResources: failed to copy resource file: 
+  /home/dmle/projects/hanu/PPL/spring2018/assessment/a3/submission/S2018_PPL-A3-3566/V┼й Ho├аi Thu 1601040214_46565_assignsubmission_file_a3_1601040214/a3_1601040214/src/utils/nblibraries.properties
+  --> /data/projects/hanu/projects/2017_pgmarker/dev/eclipseprj/classes/a3_1601040214/a3_1601040214/src/utils/nblibraries.properties
+  due to: 
+java.io.IOException: No such file or directory
+	at java.io.UnixFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(File.java:1012)
+	at vn.edu.hanu.tools.utils.ToolkitIO.copyFile(ToolkitIO.java:796)
+	at vn.edu.hanu.tools.utils.ToolkitIO.copyJavaResources(ToolkitIO.java:1802)
+	at vn.edu.hanu.tools.utils.javac.JavaC.compile(JavaC.java:159)
+	at vn.edu.hanu.tools.utils.javac.JavaC.compileAndLoad(JavaC.java:49)
+	at vn.edu.hanu.tools.pgmarker.PgMarker.getProgramClassesMap(PgMarker.java:1143)
+	at vn.edu.hanu.tools.pgmarker.PgMarker.markDesign(PgMarker.java:599)
+	at vn.edu.hanu.tools.pgmarker.PgMarker.markProgram(PgMarker.java:562)
+	at vn.edu.hanu.tools.pgmarker.PgMarker.run(PgMarker.java:176)
+	at vn.edu.hanu.ppl.pgmarker.oopPc.OopPcMarkerMain1.runWithPath(OopPcMarkerMain1.java:109)
+	at vn.edu.hanu.ppl.apps.a3.PgMarkerA3.main(PgMarkerA3.java:24)
+
+	at vn.edu.hanu.tools.utils.ToolkitIO.copyJavaResources(ToolkitIO.java:1805)
+	at vn.edu.hanu.tools.utils.javac.JavaC.compile(JavaC.java:159)
+	at vn.edu.hanu.tools.utils.javac.JavaC.compileAndLoad(JavaC.java:49)
+	at vn.edu.hanu.tools.pgmarker.PgMarker.getProgramClassesMap(PgMarker.java:1143)
+	at vn.edu.hanu.tools.pgmarker.PgMarker.markDesign(PgMarker.java:599)
+	at vn.edu.hanu.tools.pgmarker.PgMarker.markProgram(PgMarker.java:562)
+	at vn.edu.hanu.tools.pgmarker.PgMarker.run(PgMarker.java:176)
+	at vn.edu.hanu.ppl.pgmarker.oopPc.OopPcMarkerMain1.runWithPath(OopPcMarkerMain1.java:109)
+	at vn.edu.hanu.ppl.apps.a3.PgMarkerA3.main(PgMarkerA3.java:24)
+
+---
+
