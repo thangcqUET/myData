@@ -1,0 +1,155 @@
+---------------------
+Program Marker Report
+---------------------
+
++--Input:
+Program id: 1601040214
+Program's package directory: /home/dmle/projects/hanu/PPL/spring2018/assessment/a2/submission/S2018_PPL-A2-3337/V┼й Ho├аi Thu 1601040214_45279_assignsubmission_file_a2_1601040214/a2_1601040214
+Solution program package: vn.edu.hanu.ppl.model.oopStd.solution
+Program type: OOPR
+Test suite class: class vn.edu.hanu.ppl.tcdef.oopStd.TestSuiteOopStd
+Marking function: vn.edu.hanu.ppl.markingfunc.MarkingFuncOopStd
+Report directory: /home/dmle/projects/hanu/PPL/spring2018/assessment/a2/marks
+---
+
++--Design:
+  +--a2_1601040214.Student:
+    +--Class header:
+    @overview: 1.00
+    @attributes: 0.00
+    @object: 0.00
+    @abstract_properties: 1.00
+
+    Class header Total: 0.50
+    ---
+    +--Representation:
+    Field: id: 1.00
+    Field: firstName: 0.88
+    Field: givenName: 0.88
+    Field: lastName: 0.88
+    Field: email: 0.88
+    Field: address: 0.88
+    Field: phone: 0.88
+    Field: dob: 0.88
+    Field: gender: 0.75
+
+    Representation Total: 0.88
+    ---
+    +--Operations:
+      +--Method: Student:
+      behaviour desc: ❌ (missing or incomplete)
+      parameters: ❌ (wrong definition)
+      score: 0.00
+      ---
+      +--Method: getFirstName:
+      behaviour desc: ❌ (missing or incomplete)
+      parameters: ✔
+      score: 0.50
+      ---
+      +--Method: setFirstName:
+      score: 0.0 (❌ incorrectly defined or missing)
+      ---
+      +--Method: getGivenName:
+      behaviour desc: ❌ (missing or incomplete)
+      parameters: ✔
+      score: 0.50
+      ---
+      +--Method: setGivenName:
+      score: 0.0 (❌ incorrectly defined or missing)
+      ---
+      +--Method: getLastName:
+      behaviour desc: ❌ (missing or incomplete)
+      parameters: ✔
+      score: 0.50
+      ---
+      +--Method: setLastName:
+      score: 0.0 (❌ incorrectly defined or missing)
+      ---
+      +--Method: getEmail:
+      behaviour desc: ❌ (missing or incomplete)
+      parameters: ✔
+      score: 0.50
+      ---
+      +--Method: setEmail:
+      score: 0.0 (❌ incorrectly defined or missing)
+      ---
+      +--Method: setAddress:
+      score: 0.0 (❌ incorrectly defined or missing)
+      ---
+      +--Method: getPhone:
+      behaviour desc: ❌ (missing or incomplete)
+      parameters: ✔
+      score: 0.50
+      ---
+      +--Method: setPhone:
+      score: 0.0 (❌ incorrectly defined or missing)
+      ---
+      +--Method: getDob:
+      behaviour desc: ❌ (missing or incomplete)
+      parameters: ✔
+      score: 0.50
+      ---
+      +--Method: getGender:
+      score: 0.0 (❌ incorrectly defined or missing)
+      ---
+      +--Method: repOK:
+      behaviour desc: ❌ (missing or incomplete)
+      parameters: ✔
+      score: 0.50
+      ---
+      +--Method: toString:
+      behaviour desc: ✔
+      parameters: ✔
+      score: 1.00
+      ---
+      +--Method: getId:
+      behaviour desc: ❌ (missing or incomplete)
+      parameters: ✔
+      score: 0.50
+      ---
+      +--Method: getAddress:
+      behaviour desc: ❌ (missing or incomplete)
+      parameters: ✔
+      score: 0.50
+      ---
+
+    Operations Total: 0.31
+    ---
+
+  a2_1601040214.Student Total: 0.52
+  ---
+
+Design Total: 51.53
+---
+
++--Code Testing:
+  +--a2_1601040214.Student:
+    +--Errors:
+    create test data: ❌ failed to formulate test data for some attribute(s), due to: 
+utils.NotPossibleException: TestToolkit.parseAttribValArrStr: invalid field: a2_1601040214.Gender.value
+	at vn.edu.hanu.tools.testing.TestToolkit.parseAttribValArrStr(TestToolkit.java:874)
+	at vn.edu.hanu.tools.testing.TestToolkit.parseObjectVal(TestToolkit.java:1095)
+	at vn.edu.hanu.tools.testing.TestToolkit.parseValByAttr(TestToolkit.java:979)
+	at vn.edu.hanu.tools.testing.TestToolkit.getAttributeTDS(TestToolkit.java:470)
+	at vn.edu.hanu.tools.testing.DClassTester.getAttributeTDSes(DClassTester.java:916)
+	at vn.edu.hanu.tools.testing.DClassTester.run(DClassTester.java:129)
+	at vn.edu.hanu.tools.pgmarker.oop.OOClassMarker.markCode(OOClassMarker.java:446)
+	at vn.edu.hanu.tools.pgmarker.PgMarker.markCode(PgMarker.java:765)
+	at vn.edu.hanu.tools.pgmarker.PgMarker.markProgram(PgMarker.java:565)
+	at vn.edu.hanu.tools.pgmarker.PgMarker.run(PgMarker.java:176)
+	at vn.edu.hanu.ppl.pgmarker.oopStd.OopStdMarkerMain1.runWithPath(OopStdMarkerMain1.java:110)
+	at vn.edu.hanu.ppl.apps.a2.PgMarkerA2.main(PgMarkerA2.java:24)
+
+    ---
+
+  a2_1601040214.Student Total: 0.00
+  ---
+
+Code Testing Total: 0.00
+---
+
++--Summary:
+
+Summary Total: 25.76
+---
+
