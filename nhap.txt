@@ -800,3 +800,83 @@ when
 
 13
 7 6 5 7
+
+
+
+những cái cần thống nhất
+đặt tên router
+phân chia công việc
+tên biến vào ra trong front end
+
+
+router
+trang chủ
+routerHome  /
+loged: /user/id
+
+xử lý login
+routerLogin /login
+
+xử lý signup
+routerSignup /signup
+
+sử lý search
+routerSearch /search
+loged: /user/:id/search
+
+trang createPost
+routerCreatePost /createPost
+loged: /user/:id/createPost
+
+xử lý createPost
+routerCreatePostProcess /createPostProcess
+loged: /user/:id/createPostProcess
+-
+trang PostDetail
+routerPostDetail /view/:postID
+loged: /user/:id/view/:postID
+
+xử lý Like
+routerLike /user/:id/like
+
+xử lý Rate
+routerRate /user/:id/rate
+
+xử lý Report
+routerReport /report
+
+trang PostsManager
+routerPostsManager /postManager
+
+
+popup Del
+xử lý Del
+trang Edit
+xử lý Edit
+
+
+Tạo các class lưu dữ liệu
+Account
+Post
+ListAccount
+ListPost
+(get set)
+
+
+==
+Sửa ejs trang chủ, createpost, postlist: tên biến, thêm các thành phần khác
+tạo ejs Postdetail, postsManager: thêm xóa sửa
+viết từng module chức năng
+kết nối với csdl
+đầu vào     tên thuộc tính
+bài đăng    id
+tên món ăn  tma
+mô tả chung mtc
+nguyên liệu nl
+số lượng    sl
+bước làm    buoc
+key tìm kiếm search
+
+57qeghWj 
+
+
