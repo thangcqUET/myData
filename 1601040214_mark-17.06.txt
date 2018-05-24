@@ -1,0 +1,219 @@
+---------------------
+Program Marker Report
+---------------------
+
++--Input:
+Program id: 1601040214
+Program's package directory: /home/dmle/projects/hanu/PPL/spring2018/assessment/a3-redo/submission/S2018_PPL-A3 Redo-3986/V┼й Ho├аi Thu 1601040214_47714_assignsubmission_file_a3_1601040214/a3_1601040214
+Solution program package: vn.edu.hanu.ppl.model.oopPc.solution
+Program type: OOPR
+Test suite class: class vn.edu.hanu.ppl.tcdef.oopPc.TestSuiteOopPC
+Marking function: vn.edu.hanu.ppl.markingfunc.MarkingFuncOopPC
+Report directory: /home/dmle/projects/hanu/PPL/spring2018/assessment/a3-redo/marks
+---
+
++--Design:
+  +--a3_1601040214.PC:
+    +--Class header:
+
+    Class header Total: 0.00
+    ---
+    +--Representation:
+    Field: model: 0.88
+    Field: year: 0.88
+    Field: manufacturer: 1.00
+    Field: comps: 1.00
+
+    Representation Total: 0.94
+    ---
+    +--Operations:
+      +--Method: PC:
+      behaviour desc: ❌ (missing or incomplete)
+      parameters: ❌ (wrong definition)
+      score: 0.00
+      ---
+      +--Method: getModel:
+      behaviour desc: ❌ (missing or incomplete)
+      parameters: ✔
+      score: 0.50
+      ---
+      +--Method: setModel:
+      score: 0.0 (❌ incorrectly defined or missing)
+      ---
+      +--Method: getYear:
+      behaviour desc: ❌ (missing or incomplete)
+      parameters: ✔
+      score: 0.50
+      ---
+      +--Method: getManufacturer:
+      behaviour desc: ❌ (missing or incomplete)
+      parameters: ✔
+      score: 0.50
+      ---
+      +--Method: getComps:
+      behaviour desc: ❌ (missing or incomplete)
+      parameters: ✔
+      score: 0.50
+      ---
+      +--Method: setComps:
+      score: 0.0 (❌ incorrectly defined or missing)
+      ---
+      +--Method: repOK:
+      behaviour desc: ❌ (missing or incomplete)
+      parameters: ✔
+      score: 0.50
+      ---
+      +--Method: toString:
+      behaviour desc: ✔
+      parameters: ✔
+      score: 1.00
+      ---
+
+    Operations Total: 0.39
+    ---
+
+  a3_1601040214.PC Total: 0.48
+  ---
+  +--a3_1601040214.PCReport:
+    +--Operations:
+      +--Method: displayReport:
+      behaviour desc: ❌ (missing or incomplete)
+      parameters: ✔
+      score: 0.50
+      ---
+
+    Operations Total: 0.50
+    ---
+
+  a3_1601040214.PCReport Total: 0.50
+  ---
+  +--a3_1601040214.Set:
+    +--Class header:
+    ClassInterface(s): 0.0 (❌ some interface(s) header are incorrect)
+    @overview: 1.00
+    @attributes: 1.00
+    @object: 1.00
+    @abstract_properties: 1.00
+
+    Class header Total: 0.80
+    ---
+    +--Representation:
+    ❌ Error: No representation
+
+    Representation Total: 0.00
+    ---
+    +--Operations:
+      +--Method: Set:
+      behaviour desc: ❌ (missing or incomplete)
+      parameters: ❌ (wrong definition)
+      score: 0.00
+      ---
+      +--Method: getObjects:
+      behaviour desc: ❌ (missing or incomplete)
+      parameters: ✔
+      annotations: ❌ (missing or wrong definition)
+      score: 0.25
+      ---
+      +--Method: repOK:
+      score: 0.0 (❌ incorrectly defined or missing)
+      ---
+      +--Method: isIn:
+      score: 0.0 (❌ incorrectly defined or missing)
+      ---
+      +--Method: add:
+      score: 0.0 (❌ incorrectly defined or missing)
+      ---
+      +--Method: remove:
+      score: 0.0 (❌ incorrectly defined or missing)
+      ---
+      +--Method: equals:
+      behaviour desc: ❌ (missing or incomplete)
+      parameters: ❌ (wrong definition)
+      score: 0.00
+      ---
+      +--Method: toString:
+      behaviour desc: ✔
+      parameters: ✔
+      score: 1.00
+      ---
+      +--Method: size:
+      behaviour desc: ❌ (missing or incomplete)
+      parameters: ✔
+      annotations: ❌ (missing or wrong definition)
+      score: 0.25
+      ---
+
+    Operations Total: 0.17
+    ---
+
+  a3_1601040214.Set Total: 0.24
+  ---
+
+Design Total: 34.11
+---
+
++--Code Testing:
+  +--a3_1601040214.PC:
+    +--Errors:
+    create test data: ❌ failed to formulate test data for some attribute(s), due to: 
+utils.NotPossibleException: TestToolkit.parseObjectVal: could not find method (add) in class : class a3_1601040214.Set
+	at vn.edu.hanu.tools.testing.TestToolkit.parseObjectVal(TestToolkit.java:1064)
+	at vn.edu.hanu.tools.testing.TestToolkit.parseValByAttr(TestToolkit.java:979)
+	at vn.edu.hanu.tools.testing.TestToolkit.getAttributeTDS(TestToolkit.java:470)
+	at vn.edu.hanu.tools.testing.DClassTester.getAttributeTDSes(DClassTester.java:916)
+	at vn.edu.hanu.tools.testing.DClassTester.run(DClassTester.java:129)
+	at vn.edu.hanu.tools.pgmarker.oop.OOClassMarker.markCode(OOClassMarker.java:446)
+	at vn.edu.hanu.tools.pgmarker.PgMarker.markCode(PgMarker.java:765)
+	at vn.edu.hanu.tools.pgmarker.PgMarker.markProgram(PgMarker.java:565)
+	at vn.edu.hanu.tools.pgmarker.PgMarker.run(PgMarker.java:176)
+	at vn.edu.hanu.ppl.pgmarker.oopPc.OopPcMarkerMain1.runWithPath(OopPcMarkerMain1.java:109)
+	at vn.edu.hanu.ppl.apps.a3redo.PgMarkerA3Redo.main(PgMarkerA3Redo.java:24)
+
+    ---
+
+  a3_1601040214.PC Total: 0.00
+  ---
+  +--a3_1601040214.PCReport:
+    +--Errors:
+    create test data: ❌ failed to formulate test data for class, due to: 
+utils.NotPossibleException: convert: invalid value for type : Vostro 3650MT -> Integer
+	at vn.edu.hanu.tools.utils.DClassUtils.convertToBasicTypeValue(DClassUtils.java:2407)
+	at vn.edu.hanu.tools.utils.DClassUtils.convertToAttribValue(DClassUtils.java:2307)
+	at vn.edu.hanu.tools.testing.TestToolkit.parseValByAttr(TestToolkit.java:982)
+	at vn.edu.hanu.tools.testing.TestToolkit.parseAttribValArrStr(TestToolkit.java:882)
+	at vn.edu.hanu.tools.testing.TestToolkit.parseObjectVal(TestToolkit.java:1095)
+	at vn.edu.hanu.tools.testing.TestToolkit.parseValByType(TestToolkit.java:1000)
+	at vn.edu.hanu.tools.testing.TestToolkit.parseMethodInput(TestToolkit.java:619)
+	at vn.edu.hanu.tools.testing.TestToolkit.getMethodTDSes(TestToolkit.java:325)
+	at vn.edu.hanu.tools.testing.ClassTester.getMethodTDSes(ClassTester.java:384)
+	at vn.edu.hanu.tools.testing.DClassOptOnlyTester.run(DClassOptOnlyTester.java:71)
+	at vn.edu.hanu.tools.pgmarker.oop.OOClassMarker.markCode(OOClassMarker.java:446)
+	at vn.edu.hanu.tools.pgmarker.PgMarker.markCode(PgMarker.java:765)
+	at vn.edu.hanu.tools.pgmarker.PgMarker.markProgram(PgMarker.java:565)
+	at vn.edu.hanu.tools.pgmarker.PgMarker.run(PgMarker.java:176)
+	at vn.edu.hanu.ppl.pgmarker.oopPc.OopPcMarkerMain1.runWithPath(OopPcMarkerMain1.java:109)
+	at vn.edu.hanu.ppl.apps.a3redo.PgMarkerA3Redo.main(PgMarkerA3Redo.java:24)
+
+    ---
+
+  a3_1601040214.PCReport Total: 0.00
+  ---
+  +--a3_1601040214.Set:
+    +--Errors:
+    constructor: ❌ (not found (not the expected constructor OR incorrectly defined))
+    ---
+    +--Method: Set:
+    score: 0.00
+    ---
+
+  a3_1601040214.Set Total: 0.00
+  ---
+
+Code Testing Total: 0.00
+---
+
++--Summary:
+
+Summary Total: 17.06
+---
+

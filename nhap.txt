@@ -748,7 +748,7 @@ PCProg:
 	saveReport
 	main
 	
-4h00    2 28/05/2018 INT2208 3  Công nghệ phần mềm          3   TS.Vũ Diệu Hương 65 2 4 (305,307)-GĐ2
+14h00    2 28/05/2018 INT2208 3  Công nghệ phần mềm          3   TS.Vũ Diệu Hương 65 2 4 (305,307)-GĐ2
 08h00   4 30/05/2018 INT2209 20 Mạng máy tính               3   TS.Nguyễn Hoài Sơn 40 1 2 PM 201-G2 VĐ
 14h00   5 31/05/2018 INT2209 3  Mạng máy tính               3   TS.Nguyễn Hoài Sơn 77 2 4 PM (201,202)-G2 VĐ
 14h00   5 07/06/2018 MAT1101 2  Xác suất thống kê           3   ThS.Hoàng Thị Điệp 78 2 4 (304,308)-G2
@@ -878,5 +878,52 @@ bước làm    buoc
 key tìm kiếm search
 
 57qeghWj 
+
+
+
+
+
+
+
+Phân tích (lý giải) các đặc trưng của một sản phẩn phần mềm.
+Mô tả chi tiết chuẩn ISO về đánh giá chất lượng PM.
+Thế nào là mô hình phát triển PM
+    Trình bày về mô hình thác nước (mô tả, ưu nhược điểm, khi nào dùng)
+
+Giải thích tại sao có các ưu nhược điểm của mô hình thác nước
+
+Trình bày về mô hình chữ V (mô tả, ưu nhược điểm, khi nào dùng)
+
+Trình bày về mô hình bản mẫu (mô tả, ưu nhược điểm, khi nào dùng)
+
+Trình bày về mô hình xoắn ốc (mô tả, ưu nhược điểm, khi nào dùng)
+
+Mô tả các mô hình sau:
+
++ CBSD, SOA
+
++ RAD
+
++ RUP
+
++ Scrum, XP (theo triết lý Agile)
+
+Kiến trúc
+
+Tìm hiểu các nguyên lý thiết kế giao diện cho các ứng dụng trên Mobile
+
+Tìm hiểu về code convention cho 1 ngôn ngữ lập trình cụ thể.
+
+Tìm hiểu về check list for code review
+
+Lấy một ví dụ áp dụng các kỹ thuật kiểm thử đã học:
+
+- Đặc tả bài toán
+
+- Ứng với mỗi kỹ thuật, mô tả quá trình sinh bộ kiểm thử
+
+
+
+
 
 
