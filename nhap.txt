@@ -708,6 +708,7 @@ Người dùng nhập hết
 Chương trình hỏi có nhập nữa không
 Nếu Y thì có. Khởi tạo PC tiếp theo
 Nếu N thì không. Tạo ra báo cáo các PCs
+
 Hiển thị báo cáo:
 Tiêu đề
 Cột 1: số thứ tự
@@ -719,14 +720,14 @@ Cột 5: comps [chuỗi 1,chuỗi 2,...]
 
 Phía dưới báo cáo: hỏi có lưu thành tệp không.
 Y lưu vào tệp tên pcs.txt nằm cùng thư mục chương trình
-N kết thúc chương trinh
+N kết thúc chương trình
 --------------------------
 PC:  model, year, manufacurer, comps
 	Đặc tả
 	Cài đặt: 
 		- có PC.toString() PC:<Vostro 3650MT,2016,Dell,Set:{Intel-Core-i3-6100 CPU,4GB-DDR3L RAM,500GB-Sata hard disk,Intel-HD graphics card}>
 		- repOK()
-Set: array<string>
+Set: array<string> ArrayList<String> list = new ArrayList<String>();
 	Đặc tả
 	Cài đặt: 
 		- có Set.toString() Set:{Intel-Core-i3-6100 CPU,4GB-DDR3L RAM,500GB-Sata hard disk,Intel-HD graphics card}
@@ -743,8 +744,9 @@ PCProg:
 	createObjects
 		đặc tả
 		Cài đặt
-			
+			PC.set
 	displayReport
+	sử dụng PCReport.displayReport()
 	saveReport
 	main
 	
@@ -759,6 +761,14 @@ PCProg:
 08h00   3 12/06/2018 POL1001 1  Tư tưởng Hồ Chí Minh        2   TS.Nguyễn Văn Thắng 74 2 4 (301,303)-G2
 14h00   6 15/06/2018 MAT1100 1  Tối ưu hóa                  2   ThS.Nguyễn Cảnh Hoàng 46 2 4 (101,107)-G2
 
+45	PES1030 8	Bóng bàn				18/5/2018	08:00	1	Sân bãi ĐHNN	Trường ĐH Ngoại ngữ	Viết
+44	INT2208 3	Công nghệ phần mềm		28/5/2018	14:00	2	307-GĐ2	Khu GĐ2	Viết
+54	INT2209 3	Mạng máy tính			31/5/2018	14:00	2	PM 202-G2	Nhà G2	Viết
+50	MAT1101 2	Xác suất thống kê		7/6/2018	14:00	2	308-G2	Nhà G2	Viết
+58	INT2207 3	Cơ sở dữ liệu			8/6/2018	14:00	2	303-GĐ2	Khu GĐ2	Viết
+40	INT1050 1	Toán học rời rạc		11/6/2018	14:00	2	207-E4	Nhà E4	Viết
+63	POL1001 1	Tư tưởng Hồ Chí Minh	12/6/2018	08:00	1	303-G2	Nhà G2	Viết
+34	MAT1100 1	Tối ưu hóa				15/6/2018	14:00	2	107-G2	Nhà G2	Viết
 
 Nhà nước
 Đầu tư trọng điểm
@@ -881,6 +891,7 @@ key tìm kiếm search
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -926,4 +937,14 @@ Lấy một ví dụ áp dụng các kỹ thuật kiểm thử đã học:
 
 
 
+=======
+16/5/18
+
+16 Tháng Năm 2018
+2:07 SA
+
+Hôm qua không có thử thách gì đặt ra cả. Bây giờ mình muốn đặt ra 1 thử thách vào hôm nay. Hôm nay phải Hoàn thành xong bài ppl vào lúc 3 h chiều. Lập xong kế hoạch ôn thi đã vạch ra ở file excel 4h chiều, viết lại 1 bản dài ít nhất 1 trang a4 về buổi đi xem Luận án tốt nghiệp sáng hôm nay đi
+
+Ppl hôm qua làm đến tận 5h mới xong, may mà vẫn kịp nộp, kế hoạch ôn thi không kịp làm, vẫn chưa viết về luận án tốt nghiệp. Coi như ngày hôm qua thất bại toàn mặt
+>>>>>>> 8850b18f6e57fb2815f0485487bfe0fed6912a80
 
